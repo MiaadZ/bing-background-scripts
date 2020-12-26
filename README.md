@@ -6,22 +6,22 @@ This shell script can change gnome wallpaper after executing and will set the [B
 
 ### Be sure to install curl
 
-'''bash
+```bash
 sudo apt install curl
-'''
+```
 
 ### give execute permission
 
-'''bash
+```bash
 chmod +x background-script.sh
-'''
+```
 
 ### Run script
 
-'''bash
+```bash
 ./background-script.sh
-'''
+```
 or
-'''bash
+```bash
 bash background-script.sh
-'''
+```
