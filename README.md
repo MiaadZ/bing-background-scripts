@@ -1,6 +1,6 @@
 # Bing Background Script
 
-This shell script can change gnome wallpaper after executing and will set the [Bing](www.bing.com) wallpaper to Gnome desktop background.
+This shell script can change gnome wallpaper after executing and will set the [Bing](https://www.bing.com/) wallpaper to Gnome desktop background.
 
 ## How to use
 
